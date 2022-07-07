@@ -1,0 +1,19 @@
+{
+  "name": "@thorsten-wolf-neptune/dxp-dep-sap_hr",
+  "version": "600.0.0",
+  "description": "SAP HR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorsten-wolf-neptune/dxp-dep-SAP_HR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thorsten-wolf-neptune/dxp-dep-SAP_HR/issues"
+  },
+  "homepage": "https://github.com/thorsten-wolf-neptune/dxp-dep-SAP_HR#readme"
+}
